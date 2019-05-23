@@ -1,2 +1,0 @@
-#define FUNCTION_COUNT 4
-#define NAME_LENGTH 21
